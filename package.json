@@ -1,0 +1,27 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "qrcode": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "go": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkalandarov/qr-code-generator.git"
+  },
+  "keywords": [],
+  "author": "Jasurbek Kalandarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkalandarov/qr-code-generator/issues"
+  },
+  "homepage": "https://github.com/jkalandarov/qr-code-generator#readme"
+}
